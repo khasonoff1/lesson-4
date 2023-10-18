@@ -1,0 +1,9 @@
+header .active {
+  color: blue !important;
+}
+
+header .nav-link {
+  padding: 0;
+  color: #000;
+  font-size: 40px;
+}

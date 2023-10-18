@@ -1,0 +1,9 @@
+main {
+    background: url("https://cardmon.uz/img/abstract-bg.9051ea13.png"), linear-gradient(180deg, #38a2ff, #38a2ff 10%, #1878f3) no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    height: 85vh;
+}
+a {
+    text-decoration: none;
+}
